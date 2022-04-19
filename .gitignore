@@ -1,0 +1,8 @@
+#Ignore system files
+.DS_store
+
+#Ignore all text files
+*.txt
+
+#Ignore/env folder in the same directory 
+/env
