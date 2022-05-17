@@ -70,7 +70,7 @@ p{
 body{
     
     color:white;
-    background-image: url(images/background-ocean.jpg);
+    background-image: url('../images/background-ocean.jpg');
     background-repeat: repeat;
     background-size: cover;
     background-position: center;
